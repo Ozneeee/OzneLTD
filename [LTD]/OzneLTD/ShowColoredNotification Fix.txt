@@ -1,0 +1,21 @@
+--- FR ---
+
+Allez dans votre ***es_extended > client > functions*** et vous mettez ça :
+
+ESX.ShowColoredNotification = function(msg,color)
+    SetNotificationBackgroundColor(color)
+    SetNotificationTextEntry('STRING')
+    AddTextComponentSubstringPlayerName(msg)
+    DrawNotification(false, true)
+end
+
+--- EN ---
+
+Go to your  *** es_extended> client> functions *** and you put this at the bottom of ESX.ShowNotification:
+
+ESX.ShowColoredNotification = function(msg,color)
+    SetNotificationBackgroundColor(color)
+    SetNotificationTextEntry('STRING')
+    AddTextComponentSubstringPlayerName(msg)
+    DrawNotification(false, true)
+end
