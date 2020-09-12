@@ -4,6 +4,8 @@ Job LTD nord et sud en un job full pmenu fait par Ozne#4870
 
 Modifié depuis le kadirBurgershot avec son autorisation et son aide !! ( https://cdn.discordapp.com/attachments/726117259679891617/753555027997491230/Autorisation_pour_les_jaloux.PNG )
 
+preview : https://www.youtube.com/watch?v=uNWWMdqkOHA&feature=youtu.be
+
 Require ESX
 
 Full pMenu
